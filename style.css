@@ -21,6 +21,17 @@ body {
   z-index: 2;
 }
 
+.yooo {
+	position: relative;
+  border-radius: 40%;
+  display: block;
+  margin-top: 17%;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 2;
+}
+
+
 .pp.Lol {
   background-color: #4CAF50; /* Green */
   border: none;
